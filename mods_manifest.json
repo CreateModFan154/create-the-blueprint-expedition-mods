@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "alexsmobs-1.22.9.jar:@jar",
+    "name": "alexsmobs-1.22.9.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 26350793,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/alexsmobs-1.22.9.jar",
+      "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+    }
+  },
+  {
+    "id": "appleskin-forge-mc1.20.1-2.5.1.jar:@jar",
+    "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 47428,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "MD5": "dae63cea9c951dda542a4005ceef3953"
+    }
+  },
+  {
+    "id": "appliedenergistics2-forge-15.4.2.jar:@jar",
+    "name": "appliedenergistics2-forge-15.4.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 8410614,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/appliedenergistics2-forge-15.4.2.jar",
+      "MD5": "9fe7f15dfec2b9a52975ed6b9140cef0"
+    }
+  },
+  {
+    "id": "architectury-9.2.14-forge.jar:@jar",
+    "name": "architectury-9.2.14-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 580602,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/architectury-9.2.14-forge.jar",
+      "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+    }
+  },
+  {
+    "id": "ars_creo-1.20.1-4.3.0.jar:@jar",
+    "name": "ars_creo-1.20.1-4.3.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 71944,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ars_creo-1.20.1-4.3.0.jar",
+      "MD5": "18705b0531cb08f1351f37dd330754e0"
+    }
+  },
+  {
+    "id": "ars_nouveau-1.20.1-4.12.6-all.jar:@jar",
+    "name": "ars_nouveau-1.20.1-4.12.6-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 12426397,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ars_nouveau-1.20.1-4.12.6-all.jar",
+      "MD5": "ce47e68a4bbe31a7ea4a08eb8c23ebc5"
+    }
+  },
+  {
+    "id": "asbestos_and_more-5.2.8 hotfix-forge-1.20.1.jar:@jar",
+    "name": "asbestos_and_more-5.2.8 hotfix-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 13631548,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/asbestos_and_more-5.2.8 hotfix-forge-1.20.1.jar",
+      "MD5": "e0ee8ee1bf7de03de981e954aec84463"
+    }
+  },
+  {
+    "id": "athena-forge-1.20.1-3.1.2.jar:@jar",
+    "name": "athena-forge-1.20.1-3.1.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 91808,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+      "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+    }
+  },
+  {
+    "id": "Axiom-4.7.0-for-MC1.20.1.jar:@jar",
+    "name": "Axiom-4.7.0-for-MC1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 39348376,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Axiom-4.7.0-for-MC1.20.1.jar",
+      "MD5": "3e17c6e9b5e3b6bdce20ff74d13fc2dd"
+    }
+  },
+  {
+    "id": "backpack_pixel-0.9.6-forge-1.20.1.jar:@jar",
+    "name": "backpack_pixel-0.9.6-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2488151,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/backpack_pixel-0.9.6-forge-1.20.1.jar",
+      "MD5": "bdf1276f6c39ab10f0ed4611c7d6e811"
+    }
+  },
+  {
+    "id": "backported_wolves-1.0.3-1.20.1.jar:@jar",
+    "name": "backported_wolves-1.0.3-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 149836,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/backported_wolves-1.0.3-1.20.1.jar",
+      "MD5": "1bd1e940f6aa9bad3b231de5a1ccc85e"
+    }
+  },
+  {
+    "id": "balm-forge-1.20.1-7.3.28-all.jar:@jar",
+    "name": "balm-forge-1.20.1-7.3.28-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 593584,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/balm-forge-1.20.1-7.3.28-all.jar",
+      "MD5": "1eb06ec8b09f0a82001a972cd61a3291"
+    }
+  },
+  {
+    "id": "bclib-3.0.14.jar:@jar",
+    "name": "bclib-3.0.14.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2312835,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/bclib-3.0.14.jar",
+      "MD5": "f8ace3a498b889040dea6ff1ea85d288"
+    }
+  },
+  {
+    "id": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar:@jar",
+    "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 199902,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "MD5": "05c50f0abc8e5d389329e14b912c0603"
+    }
+  },
+  {
+    "id": "better-end-4.0.11.jar:@jar",
+    "name": "better-end-4.0.11.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 92544800,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/better-end-4.0.11.jar",
+      "MD5": "25be609cb7b9fc6e4e8782c6fdfea35b"
+    }
+  },
+  {
+    "id": "better-nether-9.0.9.jar:@jar",
+    "name": "better-nether-9.0.9.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 23134254,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/better-nether-9.0.9.jar",
+      "MD5": "cc73949b0939b18e6517a52319204988"
+    }
+  },
+  {
+    "id": "botarium-forge-1.20.1-2.3.4.jar:@jar",
+    "name": "botarium-forge-1.20.1-2.3.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 157633,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/botarium-forge-1.20.1-2.3.4.jar",
+      "MD5": "c204f9d834da78a3972fc98da96730aa"
+    }
+  },
+  {
+    "id": "BuildersDelight-1.20.1-v.1.3.jar:@jar",
+    "name": "BuildersDelight-1.20.1-v.1.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 4580734,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/BuildersDelight-1.20.1-v.1.3.jar",
+      "MD5": "4705d5711205c821b8755bfd441a7833"
+    }
+  },
+  {
+    "id": "CapeJS-1.0.0-1.20.1-forge.jar:@jar",
+    "name": "CapeJS-1.0.0-1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 59877,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/CapeJS-1.0.0-1.20.1-forge.jar",
+      "MD5": "a194526ab5463d1d94d3478286aadf69"
+    }
+  },
+  {
+    "id": "carryon-forge-1.20.1-2.1.2.7.jar:@jar",
+    "name": "carryon-forge-1.20.1-2.1.2.7.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 439457,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+      "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+    }
+  },
+  {
+    "id": "ccomunityboxes-1.0.jar:@jar",
+    "name": "ccomunityboxes-1.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 334806,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ccomunityboxes-1.0.jar",
+      "MD5": "6244ef017563af87d9682ff62efd2912"
+    }
+  },
+  {
+    "id": "chatsound-1.20.1-1.1.jar:@jar",
+    "name": "chatsound-1.20.1-1.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 14414,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/chatsound-1.20.1-1.1.jar",
+      "MD5": "68862ec1aee0b06f86c98d8d273fede7"
+    }
+  },
+  {
+    "id": "cherishedworlds-forge-6.1.7+1.20.1.jar:@jar",
+    "name": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 60956,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/cherishedworlds-forge-6.1.7+1.20.1.jar",
+      "MD5": "f05683884add93d912932c601dff8ef5"
+    }
+  },
+  {
+    "id": "chipped-forge-1.20.1-3.0.7.jar:@jar",
+    "name": "chipped-forge-1.20.1-3.0.7.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 15060263,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+      "MD5": "c6c76e78805b357757bf47b04c7286e7"
+    }
+  },
+  {
+    "id": "Circuitry For Create 5.jar:@jar",
+    "name": "Circuitry For Create 5.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 42981,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Circuitry For Create 5.jar",
+      "MD5": "f56f342dd97dc0e4da1e3da0d20cae1f"
+    }
+  },
+  {
+    "id": "citadel-2.6.1-1.20.1.jar:@jar",
+    "name": "citadel-2.6.1-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3173637,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/citadel-2.6.1-1.20.1.jar",
+      "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
+    }
+  },
+  {
+    "id": "Clumps-forge-1.20.1-12.0.0.4.jar:@jar",
+    "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 20299,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+    }
+  },
+  {
+    "id": "comforts-forge-6.4.0+1.20.1.jar:@jar",
+    "name": "comforts-forge-6.4.0+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 382083,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+      "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
+    }
+  },
+  {
+    "id": "configured-forge-1.20.1-2.2.3.jar:@jar",
+    "name": "configured-forge-1.20.1-2.2.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 418929,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
+      "MD5": "9380dc31c599c523a5682a4025fceb92"
+    }
+  },
+  {
+    "id": "Connector-1.0.0-beta.46+1.20.1.jar:@jar",
+    "name": "Connector-1.0.0-beta.46+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 5043384,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+      "MD5": "3c07e0a25c1921da7586c0290c72ba86"
+    }
+  },
+  {
+    "id": "copperandtuffbackport-1.2.jar:@jar",
+    "name": "copperandtuffbackport-1.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 754116,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/copperandtuffbackport-1.2.jar",
+      "MD5": "936af7f7481cb25383eeb9548540dc75"
+    }
+  },
+  {
+    "id": "copycats-3.0.0+mc.1.20.1-forge.jar:@jar",
+    "name": "copycats-3.0.0+mc.1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1983641,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/copycats-3.0.0+mc.1.20.1-forge.jar",
+      "MD5": "499d1c929806027860b2ee4715fbd1a4"
+    }
+  },
+  {
+    "id": "corn_delight-1.1.6-1.20.1.jar:@jar",
+    "name": "corn_delight-1.1.6-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 164044,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/corn_delight-1.1.6-1.20.1.jar",
+      "MD5": "0e9a550246c0a6f2da5141353bebdc5b"
+    }
+  },
+  {
+    "id": "corpse-forge-1.20.1-1.0.20.jar:@jar",
+    "name": "corpse-forge-1.20.1-1.0.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 244994,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/corpse-forge-1.20.1-1.0.20.jar",
+      "MD5": "143d3e76139de3b9186849f494a41af6"
+    }
+  },
+  {
+    "id": "CrabbersDelight-1.20.1-1.1.7e.jar:@jar",
+    "name": "CrabbersDelight-1.20.1-1.1.7e.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 375651,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/CrabbersDelight-1.20.1-1.1.7e.jar",
+      "MD5": "1493ffa7ab0799a31c3cfb02e0d3c6ba"
+    }
+  },
+  {
+    "id": "craftingtweaks-forge-1.20.1-18.2.5.jar:@jar",
+    "name": "craftingtweaks-forge-1.20.1-18.2.5.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 221275,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/craftingtweaks-forge-1.20.1-18.2.5.jar",
+      "MD5": "6724496e06cf11f8858910fb74bf21d3"
+    }
+  },
+  {
+    "id": "CrashAssistant-forge-1.19.2-1.20.1-1.7.26.jar:@jar",
+    "name": "CrashAssistant-forge-1.19.2-1.20.1-1.7.26.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 5769916,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/CrashAssistant-forge-1.19.2-1.20.1-1.7.26.jar",
+      "MD5": "4d52618a5e4e462738ab41717ad9e8e3"
+    }
+  },
+  {
+    "id": "CrashAssistant-forge-1.19.2-1.20.1-1.7.27.jar:@jar",
+    "name": "CrashAssistant-forge-1.19.2-1.20.1-1.7.27.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 5770416,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/CrashAssistant-forge-1.19.2-1.20.1-1.7.27.jar",
+      "MD5": "a214c836ad227c3b6a0ecd01a4f44c94"
+    }
+  },
+  {
+    "id": "Create Encased-1.20.1-1.7.1-fix2.jar:@jar",
+    "name": "Create Encased-1.20.1-1.7.1-fix2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1812240,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Create Encased-1.20.1-1.7.1-fix2.jar",
+      "MD5": "2682f1a906da2dfeef2e714a13832d05"
+    }
+  },
+  {
+    "id": "Create More Recipes-1.20.1-1.1-fix1.jar:@jar",
+    "name": "Create More Recipes-1.20.1-1.1-fix1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 704708,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Create More Recipes-1.20.1-1.1-fix1.jar",
+      "MD5": "990ba5257eb6c0d580fa647c512d5235"
+    }
+  },
+  {
+    "id": "Create Quality of Life-1.20.1-1.4.jar:@jar",
+    "name": "Create Quality of Life-1.20.1-1.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1085493,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Create Quality of Life-1.20.1-1.4.jar",
+      "MD5": "f333e411d1d079717c023bdd5b802d8a"
+    }
+  },
+  {
+    "id": "create-1.20.1-6.0.4.jar:@jar",
+    "name": "create-1.20.1-6.0.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 18463134,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create-1.20.1-6.0.4.jar",
+      "MD5": "9d274d57a664ae35e6efbef8595bcc29"
+    }
+  },
+  {
+    "id": "create-confectionery1.20.1_v1.1.0.jar:@jar",
+    "name": "create-confectionery1.20.1_v1.1.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2123089,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+      "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
+    }
+  },
+  {
+    "id": "create-new-age-forge-1.20.1-1.1.4.jar:@jar",
+    "name": "create-new-age-forge-1.20.1-1.1.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 603827,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create-new-age-forge-1.20.1-1.1.4.jar",
+      "MD5": "530242d3bc62718f350e0c656ae37b1f"
+    }
+  },
+  {
+    "id": "create-stuff-additions1.20.1_v2.1.0.jar:@jar",
+    "name": "create-stuff-additions1.20.1_v2.1.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1347694,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create-stuff-additions1.20.1_v2.1.0.jar",
+      "MD5": "22bb230d91a12d68d5948c62566c9ad9"
+    }
+  },
+  {
+    "id": "createaddition-1.20.1-1.3.1.jar:@jar",
+    "name": "createaddition-1.20.1-1.3.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1547196,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createaddition-1.20.1-1.3.1.jar",
+      "MD5": "0abfc0f6db9558cba6eaee44266a4447"
+    }
+  },
+  {
+    "id": "createadvlogistics-0.1.1.jar:@jar",
+    "name": "createadvlogistics-0.1.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 140781,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createadvlogistics-0.1.1.jar",
+      "MD5": "a57cf588d64aef0d242b58227ac065ca"
+    }
+  },
+  {
+    "id": "createcobblestone-1.4.5+forge-1.20.1-106.jar:@jar",
+    "name": "createcobblestone-1.4.5+forge-1.20.1-106.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 567572,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createcobblestone-1.4.5+forge-1.20.1-106.jar",
+      "MD5": "d776b80479890e2e59d6fd6b14a3b6ee"
+    }
+  },
+  {
+    "id": "createdeco-2.0.3-1.20.1-forge.jar:@jar",
+    "name": "createdeco-2.0.3-1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3509013,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+      "MD5": "3e0976b862fd087493c7356f623f5cd7"
+    }
+  },
+  {
+    "id": "createfisheryindustry-1.20-1.0.0.jar:@jar",
+    "name": "createfisheryindustry-1.20-1.0.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 193847,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createfisheryindustry-1.20-1.0.0.jar",
+      "MD5": "ea0b9967addd46473e8d6e29ff674cf8"
+    }
+  },
+  {
+    "id": "createframed-1.20.1-1.6.3.jar:@jar",
+    "name": "createframed-1.20.1-1.6.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 932405,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createframed-1.20.1-1.6.3.jar",
+      "MD5": "892c3b31fe4c65d17b9798de63d6cac8"
+    }
+  },
+  {
+    "id": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar:@jar",
+    "name": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 885623,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "MD5": "4943d40efd8e79c800f495b572ad4282"
+    }
+  },
+  {
+    "id": "createoreexcavation-1.20-1.6.3.jar:@jar",
+    "name": "createoreexcavation-1.20-1.6.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 431960,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createoreexcavation-1.20-1.6.3.jar",
+      "MD5": "78d0a3ce1972ea397509383fdb24a270"
+    }
+  },
+  {
+    "id": "createsifter-1.20.1-1.8.4-6.0.3.jar:@jar",
+    "name": "createsifter-1.20.1-1.8.4-6.0.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 618847,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createsifter-1.20.1-1.8.4-6.0.3.jar",
+      "MD5": "6dc4a8a0f7c114ec0602504c5d319aea"
+    }
+  },
+  {
+    "id": "createSpringLoaded-1.20.1.jar:@jar",
+    "name": "createSpringLoaded-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 31633,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createSpringLoaded-1.20.1.jar",
+      "MD5": "2f526dfcfdee99b1b74134f82acd68e8"
+    }
+  },
+  {
+    "id": "createultimine-1.20.1-forge-1.1.1.jar:@jar",
+    "name": "createultimine-1.20.1-forge-1.1.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 90953,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createultimine-1.20.1-forge-1.1.1.jar",
+      "MD5": "ea4c6c6eebdcb1ad25669034eda4c811"
+    }
+  },
+  {
+    "id": "createutilities-0.3.1+1.20.1.jar:@jar",
+    "name": "createutilities-0.3.1+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 358402,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/createutilities-0.3.1+1.20.1.jar",
+      "MD5": "82eb21562c6f1ecd02c0694e307f4c7c"
+    }
+  },
+  {
+    "id": "create_better_motors-3.0.1.jar:@jar",
+    "name": "create_better_motors-3.0.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 387069,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_better_motors-3.0.1.jar",
+      "MD5": "22b9c659d8f9741572cadfd5abd8d413"
+    }
+  },
+  {
+    "id": "create_cardboarded_conveynience-1.20.1-0.0.3.jar:@jar",
+    "name": "create_cardboarded_conveynience-1.20.1-0.0.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 19198,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_cardboarded_conveynience-1.20.1-0.0.3.jar",
+      "MD5": "0ca77018a310917d3e1b86e028e9dce9"
+    }
+  },
+  {
+    "id": "create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar:@jar",
+    "name": "create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 977134,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar",
+      "MD5": "f6b75186beb3519bfa510b888c95ecaf"
+    }
+  },
+  {
+    "id": "create_charcoal_to_diamonds-1.0.1.1-forge-1.20.1.jar:@jar",
+    "name": "create_charcoal_to_diamonds-1.0.1.1-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 6616,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_charcoal_to_diamonds-1.0.1.1-forge-1.20.1.jar",
+      "MD5": "18e6c6b052e6d2eeb1f470b99f9335e2"
+    }
+  },
+  {
+    "id": "create_connected-1.0.1-mc1.20.1-all.jar:@jar",
+    "name": "create_connected-1.0.1-mc1.20.1-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 6275512,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_connected-1.0.1-mc1.20.1-all.jar",
+      "MD5": "24b7fb73931f875a533035ef5bcaa9c6"
+    }
+  },
+  {
+    "id": "create_designed_decor-1.1.2-new-models-forge-1.20.1.jar:@jar",
+    "name": "create_designed_decor-1.1.2-new-models-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1225706,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_designed_decor-1.1.2-new-models-forge-1.20.1.jar",
+      "MD5": "16f10e64312946c2a2b813529245ff88"
+    }
+  },
+  {
+    "id": "create_easy_structures-0.2-forge-1.20.1.jar:@jar",
+    "name": "create_easy_structures-0.2-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 473508,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_easy_structures-0.2-forge-1.20.1.jar",
+      "MD5": "a864c2e36440e824d045c4f514ab4cc2"
+    }
+  },
+  {
+    "id": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar:@jar",
+    "name": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 487764,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+      "MD5": "5bca43ed77ac0266bef81bd10bed8204"
+    }
+  },
+  {
+    "id": "create_extra_casing-4.0.2-Forge-1.20.1.jar:@jar",
+    "name": "create_extra_casing-4.0.2-Forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 552039,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_extra_casing-4.0.2-Forge-1.20.1.jar",
+      "MD5": "e974c0f2c54d90d3dca17640d45a0aa2"
+    }
+  },
+  {
+    "id": "create_fuel_motor-1.2.0.jar:@jar",
+    "name": "create_fuel_motor-1.2.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 330196,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_fuel_motor-1.2.0.jar",
+      "MD5": "88939e50bc31e4a10f2461df1dfcae5b"
+    }
+  },
+  {
+    "id": "create_ltab-2.7.0.1.jar:@jar",
+    "name": "create_ltab-2.7.0.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1165760,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_ltab-2.7.0.1.jar",
+      "MD5": "4f3f664d8df91213b94febda9c01e401"
+    }
+  },
+  {
+    "id": "create_misc_and_things_ 1.20.1_4.0A.jar:@jar",
+    "name": "create_misc_and_things_ 1.20.1_4.0A.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1014347,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_misc_and_things_ 1.20.1_4.0A.jar",
+      "MD5": "fc477f3364e0e6096f8619f610c94e17"
+    }
+  },
+  {
+    "id": "create_power_loader-2.0.0-mc1.20.1.jar:@jar",
+    "name": "create_power_loader-2.0.0-mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 228377,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_power_loader-2.0.0-mc1.20.1.jar",
+      "MD5": "9e08f7b8fcb6c626d042f59bde8f514e"
+    }
+  },
+  {
+    "id": "create_security-0.1.2-forge-1.20.1.jar:@jar",
+    "name": "create_security-0.1.2-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 655230,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_security-0.1.2-forge-1.20.1.jar",
+      "MD5": "747ca4b05d793144fc4e01952ddebde0"
+    }
+  },
+  {
+    "id": "create_the_air_wars-1.04-forge-1.20.1.jar:@jar",
+    "name": "create_the_air_wars-1.04-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 11507952,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_the_air_wars-1.04-forge-1.20.1.jar",
+      "MD5": "2e806237b377b1a21f62d69ac68cbe28"
+    }
+  },
+  {
+    "id": "create_vault_terminal-1.20.1-forge-1.0.jar:@jar",
+    "name": "create_vault_terminal-1.20.1-forge-1.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 144785,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_vault_terminal-1.20.1-forge-1.0.jar",
+      "MD5": "d4b6f6d10d0a7d99f95595c0452dc745"
+    }
+  },
+  {
+    "id": "create_vibrant_vaults-0.3.1.jar:@jar",
+    "name": "create_vibrant_vaults-0.3.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2752995,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/create_vibrant_vaults-0.3.1.jar",
+      "MD5": "8e1be48465e572d8ba51d3d8e06fac94"
+    }
+  },
+  {
+    "id": "curios-forge-5.14.1+1.20.1.jar:@jar",
+    "name": "curios-forge-5.14.1+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 398066,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+      "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+    }
+  },
+  {
+    "id": "deltaboxlib-2.1.1-forge-1.20.1.jar:@jar",
+    "name": "deltaboxlib-2.1.1-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 961502,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/deltaboxlib-2.1.1-forge-1.20.1.jar",
+      "MD5": "08095132991ebd85910e0cef2ba07e25"
+    }
+  },
+  {
+    "id": "dummmmmmy-1.20-2.0.6.jar:@jar",
+    "name": "dummmmmmy-1.20-2.0.6.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 360645,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/dummmmmmy-1.20-2.0.6.jar",
+      "MD5": "02c7fa1fc6c7fa8dd720da88dcc6727e"
+    }
+  },
+  {
+    "id": "embeddium-0.3.31+mc1.20.1.jar:@jar",
+    "name": "embeddium-0.3.31+mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1320675,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+      "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+    }
+  },
+  {
+    "id": "escalated-1.0.3-create.6.0.4-mc.1.20.1-forge.jar:@jar",
+    "name": "escalated-1.0.3-create.6.0.4-mc.1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 697730,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/escalated-1.0.3-create.6.0.4-mc.1.20.1-forge.jar",
+      "MD5": "ae901f0e4902f6413d4a5ab0532f65ca"
+    }
+  },
+  {
+    "id": "Essential_1-3-6-1_forge_1-20-1.jar:@jar",
+    "name": "Essential_1-3-6-1_forge_1-20-1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 53505661,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Essential_1-3-6-1_forge_1-20-1.jar",
+      "MD5": "2569a48d3b9af6a9d47e545bd776d0af"
+    }
+  },
+  {
+    "id": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar:@jar",
+    "name": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 267731,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+      "MD5": "3727846f67248980ac39b92464c627f2"
+    }
+  },
+  {
+    "id": "fabric-api-0.92.2+1.11.12+1.20.1.jar:@jar",
+    "name": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3041277,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+      "MD5": "b430b265a793d097d5567a960c6a5492"
+    }
+  },
+  {
+    "id": "fancymenu_forge_3.5.0_MC_1.20.1.jar:@jar",
+    "name": "fancymenu_forge_3.5.0_MC_1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3280422,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/fancymenu_forge_3.5.0_MC_1.20.1.jar",
+      "MD5": "4da459780fb51757bd0e467460c01e63"
+    }
+  },
+  {
+    "id": "FarmersDelight-1.20.1-1.2.7.jar:@jar",
+    "name": "FarmersDelight-1.20.1-1.2.7.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2954263,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+      "MD5": "a91b9909757a8fa36303eef730033c7b"
+    }
+  },
+  {
+    "id": "FastFurnace-1.20.1-8.0.2.jar:@jar",
+    "name": "FastFurnace-1.20.1-8.0.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 6170,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/FastFurnace-1.20.1-8.0.2.jar",
+      "MD5": "48b8d2df29ea216a625928e29a6434da"
+    }
+  },
+  {
+    "id": "FastLeafDecay-32.jar:@jar",
+    "name": "FastLeafDecay-32.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 9835,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/FastLeafDecay-32.jar",
+      "MD5": "20df3e3525622d6ea38a243be828ef38"
+    }
+  },
+  {
+    "id": "FastWorkbench-1.20.1-8.0.4.jar:@jar",
+    "name": "FastWorkbench-1.20.1-8.0.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 28188,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/FastWorkbench-1.20.1-8.0.4.jar",
+      "MD5": "2b55c4786cc726b0757689af28b97e7e"
+    }
+  },
+  {
+    "id": "ftb-library-forge-2001.2.9.jar:@jar",
+    "name": "ftb-library-forge-2001.2.9.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 791841,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ftb-library-forge-2001.2.9.jar",
+      "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
+    }
+  },
+  {
+    "id": "ftb-quests-forge-2001.4.13.jar:@jar",
+    "name": "ftb-quests-forge-2001.4.13.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1215007,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ftb-quests-forge-2001.4.13.jar",
+      "MD5": "182d3bc7450d50ba9b71e5a08e903d9e"
+    }
+  },
+  {
+    "id": "ftb-teams-forge-2001.3.1.jar:@jar",
+    "name": "ftb-teams-forge-2001.3.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 248592,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+      "MD5": "98efb58ba7cecfb39034544eced0389f"
+    }
+  },
+  {
+    "id": "ftb-ultimine-forge-2001.1.5.jar:@jar",
+    "name": "ftb-ultimine-forge-2001.1.5.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 108517,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ftb-ultimine-forge-2001.1.5.jar",
+      "MD5": "ca47e1768157b1df2fb475799784d4be"
+    }
+  },
+  {
+    "id": "fusion-1.2.7b-forge-mc1.20.1.jar:@jar",
+    "name": "fusion-1.2.7b-forge-mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 540383,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+      "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
+    }
+  },
+  {
+    "id": "garnished-2.1.2+1.20.1-neoforged.jar:@jar",
+    "name": "garnished-2.1.2+1.20.1-neoforged.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3204085,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/garnished-2.1.2+1.20.1-neoforged.jar",
+      "MD5": "f2786bf40c9fcf710355f0800d48a1be"
+    }
+  },
+  {
+    "id": "geckolib-forge-1.20.1-4.7.1.2.jar:@jar",
+    "name": "geckolib-forge-1.20.1-4.7.1.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1012500,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+      "MD5": "cd951c81b5551b8a3f215a825d2934fa"
+    }
+  },
+  {
+    "id": "GlitchCore-forge-1.20.1-0.0.1.1.jar:@jar",
+    "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 87550,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "MD5": "6d24b09db12acdab40437a1929259352"
+    }
+  },
+  {
+    "id": "guideme-20.1.7.jar:@jar",
+    "name": "guideme-20.1.7.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 9401162,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/guideme-20.1.7.jar",
+      "MD5": "01ca90ca84ab2f886e4c5a2101934d00"
+    }
+  },
+  {
+    "id": "Highlighter-1.20.1-forge-1.1.9.jar:@jar",
+    "name": "Highlighter-1.20.1-forge-1.1.9.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 29438,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Highlighter-1.20.1-forge-1.1.9.jar",
+      "MD5": "650eec32fdb7c58c30c4d9aa911073d5"
+    }
+  },
+  {
+    "id": "Iceberg-1.20.1-forge-1.1.25.jar:@jar",
+    "name": "Iceberg-1.20.1-forge-1.1.25.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 134551,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
+      "MD5": "cda8af806d0de012f5c7012ea51c155f"
+    }
+  },
+  {
+    "id": "immersive_aircraft-1.2.2+1.20.1-forge.jar:@jar",
+    "name": "immersive_aircraft-1.2.2+1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2180392,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/immersive_aircraft-1.2.2+1.20.1-forge.jar",
+      "MD5": "18fa516980439d1b7f4fd1d3a68334f8"
+    }
+  },
+  {
+    "id": "immersive_paintings-0.6.7+1.20.1-forge.jar:@jar",
+    "name": "immersive_paintings-0.6.7+1.20.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 4841253,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+      "MD5": "e010b70ceecf34f91f223b8981f50f40"
+    }
+  },
+  {
+    "id": "immersive_weathering-1.20.1-2.0.5-forge.jar:@jar",
+    "name": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2269048,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "MD5": "f424b363799c2fd29362c618c8a30bda"
+    }
+  },
+  {
+    "id": "interiors-0.5.6+forge-mc1.20.1-local.jar:@jar",
+    "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 465540,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "MD5": "20974d4752c8aaec1bd451044728b2a0"
+    }
+  },
+  {
+    "id": "Jade-1.20.1-Forge-11.13.1.jar:@jar",
+    "name": "Jade-1.20.1-Forge-11.13.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 550551,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+      "MD5": "e36b4d172480009220be7eae12490943"
+    }
+  },
+  {
+    "id": "jei-1.20.1-forge-15.20.0.106.jar:@jar",
+    "name": "jei-1.20.1-forge-15.20.0.106.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1379220,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+      "MD5": "245af433575aef3a47ae73492196018f"
+    }
+  },
+  {
+    "id": "kleiders_custom_renderer-7.4.1-forge-1.20.1.jar:@jar",
+    "name": "kleiders_custom_renderer-7.4.1-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 47876,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kleiders_custom_renderer-7.4.1-forge-1.20.1.jar",
+      "MD5": "a736904d342c0dfd0803d2d828ffa576"
+    }
+  },
+  {
+    "id": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar:@jar",
+    "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 625185,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "MD5": "d69107c593e361e1b7b96733250bd098"
+    }
+  },
+  {
+    "id": "kotlinforforge-4.11.0-all.jar:@jar",
+    "name": "kotlinforforge-4.11.0-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 7193768,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kotlinforforge-4.11.0-all.jar",
+      "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+    }
+  },
+  {
+    "id": "kubejs-create-forge-2001.3.0-build.8.jar:@jar",
+    "name": "kubejs-create-forge-2001.3.0-build.8.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 30960,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar",
+      "MD5": "c76f71ba6d16e6fe50e76b1862b58dff"
+    }
+  },
+  {
+    "id": "kubejs-forge-2001.6.5-build.16.jar:@jar",
+    "name": "kubejs-forge-2001.6.5-build.16.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1654660,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+      "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+    }
+  },
+  {
+    "id": "kubejsadditions-forge-4.3.4.jar:@jar",
+    "name": "kubejsadditions-forge-4.3.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 321976,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kubejsadditions-forge-4.3.4.jar",
+      "MD5": "3fd00cc0a566ed51706fedb677b19217"
+    }
+  },
+  {
+    "id": "kubejsdelight-1.1.2.jar:@jar",
+    "name": "kubejsdelight-1.1.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 13371,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/kubejsdelight-1.1.2.jar",
+      "MD5": "f0362736a296e74a4765d8ac0c21ddf0"
+    }
+  },
+  {
+    "id": "LeonsBackportPaintings+M.1.20.1+ForM.2.0.0.jar:@jar",
+    "name": "LeonsBackportPaintings+M.1.20.1+ForM.2.0.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 214394,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/LeonsBackportPaintings+M.1.20.1+ForM.2.0.0.jar",
+      "MD5": "37be6217d538eb061e3e9834fa76fdde"
+    }
+  },
+  {
+    "id": "Lychee-1.20.1-Forge-5.1.19.jar:@jar",
+    "name": "Lychee-1.20.1-Forge-5.1.19.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 692008,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Lychee-1.20.1-Forge-5.1.19.jar",
+      "MD5": "0fa80de8aee7867fd74865f1c1a2d3c9"
+    }
+  },
+  {
+    "id": "mcw-bridges-3.0.0-mc1.20.1forge.jar:@jar",
+    "name": "mcw-bridges-3.0.0-mc1.20.1forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 677705,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+      "MD5": "27a5798467fc0799eab2505bb6a8f041"
+    }
+  },
+  {
+    "id": "mcw-fences-1.2.0-1.20.1forge.jar:@jar",
+    "name": "mcw-fences-1.2.0-1.20.1forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 695815,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mcw-fences-1.2.0-1.20.1forge.jar",
+      "MD5": "bb5662bde4709b6747917a66a854e138"
+    }
+  },
+  {
+    "id": "mcw-furniture-3.3.0-mc1.20.1forge.jar:@jar",
+    "name": "mcw-furniture-3.3.0-mc1.20.1forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1882792,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+      "MD5": "f22230d8f84190aef6e62ca95e5da136"
+    }
+  },
+  {
+    "id": "mcw-lights-1.1.2-mc1.20.1forge.jar:@jar",
+    "name": "mcw-lights-1.1.2-mc1.20.1forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 539623,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mcw-lights-1.1.2-mc1.20.1forge.jar",
+      "MD5": "1775271a69b559c9cb799ba06ae7f880"
+    }
+  },
+  {
+    "id": "mcw-trapdoors-1.1.4-mc1.20.1forge.jar:@jar",
+    "name": "mcw-trapdoors-1.1.4-mc1.20.1forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 593879,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mcw-trapdoors-1.1.4-mc1.20.1forge.jar",
+      "MD5": "8b0649b251bd0c50f386529dbe0c6728"
+    }
+  },
+  {
+    "id": "Mekanism-1.20.1-10.4.15.75.jar:@jar",
+    "name": "Mekanism-1.20.1-10.4.15.75.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 12554112,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Mekanism-1.20.1-10.4.15.75.jar",
+      "MD5": "cdb1519f6b7beef6036fb32c2d3c2c65"
+    }
+  },
+  {
+    "id": "MekanismGenerators-1.20.1-10.4.15.75.jar:@jar",
+    "name": "MekanismGenerators-1.20.1-10.4.15.75.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1054585,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/MekanismGenerators-1.20.1-10.4.15.75.jar",
+      "MD5": "369569fd254535add4d47b14660a1c2b"
+    }
+  },
+  {
+    "id": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar:@jar",
+    "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 37178,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+    }
+  },
+  {
+    "id": "miners_delight-1.20.1-1.2.3.jar:@jar",
+    "name": "miners_delight-1.20.1-1.2.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 474112,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/miners_delight-1.20.1-1.2.3.jar",
+      "MD5": "4effe2385d9e691d31469e04b1391b02"
+    }
+  },
+  {
+    "id": "moonlight-1.20-2.14.1-forge.jar:@jar",
+    "name": "moonlight-1.20-2.14.1-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1266075,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/moonlight-1.20-2.14.1-forge.jar",
+      "MD5": "f78c882e5fbf3d3be480fc6768cecc85"
+    }
+  },
+  {
+    "id": "morelights-0.2.1.jar:@jar",
+    "name": "morelights-0.2.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 167819,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/morelights-0.2.1.jar",
+      "MD5": "52b19498ab7991689a80da22de54d130"
+    }
+  },
+  {
+    "id": "MouseTweaks-forge-mc1.20.1-2.25.1.jar:@jar",
+    "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 76237,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+    }
+  },
+  {
+    "id": "mysterious_mountain_lib-1.5.21-1.20.1.jar:@jar",
+    "name": "mysterious_mountain_lib-1.5.21-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 308823,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/mysterious_mountain_lib-1.5.21-1.20.1.jar",
+      "MD5": "c186e778272ac84b1b29742571446866"
+    }
+  },
+  {
+    "id": "nethersdelight-1.20.1-4.0.jar:@jar",
+    "name": "nethersdelight-1.20.1-4.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 366047,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/nethersdelight-1.20.1-4.0.jar",
+      "MD5": "0d8e8162742fef314467ab1bdaac67b0"
+    }
+  },
+  {
+    "id": "oculus-mc1.20.1-1.8.0.jar:@jar",
+    "name": "oculus-mc1.20.1-1.8.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2851119,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+      "MD5": "1dd891634ac21591b5a692471f112572"
+    }
+  },
+  {
+    "id": "open-parties-and-claims-forge-1.20.1-0.24.0.jar:@jar",
+    "name": "open-parties-and-claims-forge-1.20.1-0.24.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1246814,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/open-parties-and-claims-forge-1.20.1-0.24.0.jar",
+      "MD5": "dc2c65305e9ce2ac6ff1c5d5801a31f8"
+    }
+  },
+  {
+    "id": "palegardenbackport-2.0.2-forge-1.20.1.jar:@jar",
+    "name": "palegardenbackport-2.0.2-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2434723,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/palegardenbackport-2.0.2-forge-1.20.1.jar",
+      "MD5": "029a89097492e98c69c28a083bbb69a1"
+    }
+  },
+  {
+    "id": "particular-1.20.1-Forge-1.2.1.jar:@jar",
+    "name": "particular-1.20.1-Forge-1.2.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 417264,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/particular-1.20.1-Forge-1.2.1.jar",
+      "MD5": "2b64354c3e5d9c44a01abb555beb55de"
+    }
+  },
+  {
+    "id": "petrolpark-1.20.1-1.4.9-all.jar:@jar",
+    "name": "petrolpark-1.20.1-1.4.9-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 802603,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/petrolpark-1.20.1-1.4.9-all.jar",
+      "MD5": "e6209283fe7be2a7248d92a8c120f998"
+    }
+  },
+  {
+    "id": "petrolsparts-1.20.1-1.2.3-all.jar:@jar",
+    "name": "petrolsparts-1.20.1-1.2.3-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 354509,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/petrolsparts-1.20.1-1.2.3-all.jar",
+      "MD5": "836b95a71d407c78dc177e9a7fcc2a37"
+    }
+  },
+  {
+    "id": "Placebo-1.20.1-8.6.3.jar:@jar",
+    "name": "Placebo-1.20.1-8.6.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 282474,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+      "MD5": "13133ab9989e8474931cd7a86bd19cc5"
+    }
+  },
+  {
+    "id": "ponderjs-1.20.1-2.0.5.jar:@jar",
+    "name": "ponderjs-1.20.1-2.0.5.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2274514,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/ponderjs-1.20.1-2.0.5.jar",
+      "MD5": "45ef92eac1053fd78dc791e9d4a574d8"
+    }
+  },
+  {
+    "id": "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar:@jar",
+    "name": "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 32025134,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar",
+      "MD5": "2b679fafca695b7fd5d1086d29a82e37"
+    }
+  },
+  {
+    "id": "protection_pixel-1.1.6-forge-1.20.1.jar:@jar",
+    "name": "protection_pixel-1.1.6-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2493408,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/protection_pixel-1.1.6-forge-1.20.1.jar",
+      "MD5": "cf6e8a17cccc185d080aaa51d91683a8"
+    }
+  },
+  {
+    "id": "rechiseled-1.1.6-forge-mc1.20.jar:@jar",
+    "name": "rechiseled-1.1.6-forge-mc1.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3600460,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
+      "MD5": "bf5a3b3264d2eb5e12ac6d9b0fcc1f90"
+    }
+  },
+  {
+    "id": "rechiseledcreate-1.0.2a-forge-mc1.20.jar:@jar",
+    "name": "rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 674080,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+      "MD5": "8631a861afd7ab5feebf83a0cd7540fa"
+    }
+  },
+  {
+    "id": "resourcefullib-forge-1.20.1-2.1.29.jar:@jar",
+    "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 432753,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+    }
+  },
+  {
+    "id": "rhino-forge-2001.2.3-build.10.jar:@jar",
+    "name": "rhino-forge-2001.2.3-build.10.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1798244,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+      "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+    }
+  },
+  {
+    "id": "SereneSeasons-forge-1.20.1-9.1.0.2.jar:@jar",
+    "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 160887,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "MD5": "83f15593668f8242dbf0e1517b4dc831"
+    }
+  },
+  {
+    "id": "sliceanddice-forge-3.4.0.jar:@jar",
+    "name": "sliceanddice-forge-3.4.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1032971,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sliceanddice-forge-3.4.0.jar",
+      "MD5": "2b17c8e6a214b845c2ab68525857d624"
+    }
+  },
+  {
+    "id": "smartcrafter-0.2.0.jar:@jar",
+    "name": "smartcrafter-0.2.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 393323,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/smartcrafter-0.2.0.jar",
+      "MD5": "7208cb66b5bc984cd7f5e0a9f9017b55"
+    }
+  },
+  {
+    "id": "sophisticatedbackpacks-1.20.1-3.23.14.1233.jar:@jar",
+    "name": "sophisticatedbackpacks-1.20.1-3.23.14.1233.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 900831,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.14.1233.jar",
+      "MD5": "c99ee5c0cba5f6a7bb1df1d73af512dd"
+    }
+  },
+  {
+    "id": "sophisticatedbackpackscreateintegration-1.20.1-0.1.1.6.jar:@jar",
+    "name": "sophisticatedbackpackscreateintegration-1.20.1-0.1.1.6.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 74935,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sophisticatedbackpackscreateintegration-1.20.1-0.1.1.6.jar",
+      "MD5": "7eb7ee303912ba20d8f01f35b09663de"
+    }
+  },
+  {
+    "id": "sophisticatedcore-1.20.1-1.2.52.967.jar:@jar",
+    "name": "sophisticatedcore-1.20.1-1.2.52.967.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1203815,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sophisticatedcore-1.20.1-1.2.52.967.jar",
+      "MD5": "6f34855afdd71d461e71bec14068f860"
+    }
+  },
+  {
+    "id": "sophisticatedstorage-1.20.1-1.3.40.1140.jar:@jar",
+    "name": "sophisticatedstorage-1.20.1-1.3.40.1140.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1575759,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sophisticatedstorage-1.20.1-1.3.40.1140.jar",
+      "MD5": "78c04316f51e9f7bb4b2a75a0a1fd0c0"
+    }
+  },
+  {
+    "id": "sophisticatedstoragecreateintegration-1.20.1-0.1.9.28.jar:@jar",
+    "name": "sophisticatedstoragecreateintegration-1.20.1-0.1.9.28.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 112675,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/sophisticatedstoragecreateintegration-1.20.1-0.1.9.28.jar",
+      "MD5": "89ee257bcae24b11163a72431afacd97"
+    }
+  },
+  {
+    "id": "soundsbegone-1.2.5.jar:@jar",
+    "name": "soundsbegone-1.2.5.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 2739788,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/soundsbegone-1.2.5.jar",
+      "MD5": "b123c8318e5386458a332eb07c8464c7"
+    }
+  },
+  {
+    "id": "spring-1.1.0-forge-1.20.1.jar:@jar",
+    "name": "spring-1.1.0-forge-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 212350,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/spring-1.1.0-forge-1.20.1.jar",
+      "MD5": "363b49fd0993ca9b60df8fa84e452797"
+    }
+  },
+  {
+    "id": "storagedelight-25.03.09-1.20-forge.jar:@jar",
+    "name": "storagedelight-25.03.09-1.20-forge.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 436261,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/storagedelight-25.03.09-1.20-forge.jar",
+      "MD5": "2deab94b050788e462f82a056fe6e881"
+    }
+  },
+  {
+    "id": "StorageDrawers-1.20.1-12.9.13.jar:@jar",
+    "name": "StorageDrawers-1.20.1-12.9.13.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 948185,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/StorageDrawers-1.20.1-12.9.13.jar",
+      "MD5": "f90ef72b4fc7e0a1fa7911fde78b7970"
+    }
+  },
+  {
+    "id": "supermartijn642configlib-1.1.8-forge-mc1.20.jar:@jar",
+    "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 206584,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "MD5": "cbece61946d4e059e90806c19dd66082"
+    }
+  },
+  {
+    "id": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar:@jar",
+    "name": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 515362,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "MD5": "6559d43627646f16fbe02de085e98d5c"
+    }
+  },
+  {
+    "id": "supplementaries-1.20-3.1.30.jar:@jar",
+    "name": "supplementaries-1.20-3.1.30.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 13601172,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/supplementaries-1.20-3.1.30.jar",
+      "MD5": "e89f150785ec9f6b0ccde8b304195fce"
+    }
+  },
+  {
+    "id": "s_a_b-1.4.2.jar:@jar",
+    "name": "s_a_b-1.4.2.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1637264,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/s_a_b-1.4.2.jar",
+      "MD5": "e18371f9c14b7201c85262d5480add5b"
+    }
+  },
+  {
+    "id": "tacz-1.20.1-1.1.5-all.jar:@jar",
+    "name": "tacz-1.20.1-1.1.5-all.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 47157607,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/tacz-1.20.1-1.1.5-all.jar",
+      "MD5": "1ad1d97415a7112431d020fe12dda6da"
+    }
+  },
+  {
+    "id": "TerraBlender-forge-1.20.1-3.0.1.10.jar:@jar",
+    "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 107532,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+    }
+  },
+  {
+    "id": "tfmg-0.9.3b-1.20.1.jar:@jar",
+    "name": "tfmg-0.9.3b-1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 3820853,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/tfmg-0.9.3b-1.20.1.jar",
+      "MD5": "5abfae67d0c0e77706fff0efcb3d3146"
+    }
+  },
+  {
+    "id": "trading_floor-forge-1.20.1-2.0.3.jar:@jar",
+    "name": "trading_floor-forge-1.20.1-2.0.3.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 288692,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/trading_floor-forge-1.20.1-2.0.3.jar",
+      "MD5": "aa96eb747ef28e0582b6c51f5cc01580"
+    }
+  },
+  {
+    "id": "vintage-1.20.1-1.1.0.jar:@jar",
+    "name": "vintage-1.20.1-1.1.0.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1209565,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/vintage-1.20.1-1.1.0.jar",
+      "MD5": "f4daae323c94b71f0c89bd13703a1ada"
+    }
+  },
+  {
+    "id": "voicechat-forge-1.20.1-2.5.30.jar:@jar",
+    "name": "voicechat-forge-1.20.1-2.5.30.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 7750347,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
+      "MD5": "76f372cea2c68a63acdb05ec3fbef008"
+    }
+  },
+  {
+    "id": "waystones-forge-1.20.1-14.1.12.jar:@jar",
+    "name": "waystones-forge-1.20.1-14.1.12.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 488317,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/waystones-forge-1.20.1-14.1.12.jar",
+      "MD5": "cdb428b2cfe8dfc63bcfe6310df439a8"
+    }
+  },
+  {
+    "id": "XaerosWorldMap_1.39.4_Forge_1.20.jar:@jar",
+    "name": "XaerosWorldMap_1.39.4_Forge_1.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 933184,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/XaerosWorldMap_1.39.4_Forge_1.20.jar",
+      "MD5": "3da6919fb4f0c993772c073d787403e1"
+    }
+  },
+  {
+    "id": "Xaeros_Minimap_25.2.0_Forge_1.20.jar:@jar",
+    "name": "Xaeros_Minimap_25.2.0_Forge_1.20.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 1704129,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
+      "MD5": "e606d37df7888b3b4806712ec6095a82"
+    }
+  },
+  {
+    "id": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar:@jar",
+    "name": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 568278,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+      "MD5": "b6a02a72cc15d1b1228c4b1ecf7fa3ee"
+    }
+  },
+  {
+    "id": "[1.20.1] SecurityCraft v1.10.0.1.jar:@jar",
+    "name": "[1.20.1] SecurityCraft v1.10.0.1.jar",
+    "type": "ForgeMod",
+    "artifact": {
+      "size": 4648724,
+      "url": "https://raw.githubusercontent.com/CreateModFan154/create-the-blueprint-expedition-mods/main/forgemods/required/[1.20.1] SecurityCraft v1.10.0.1.jar",
+      "MD5": "9ef0bc4940bf472feff9592f528782ea"
+    }
+  }
+]
