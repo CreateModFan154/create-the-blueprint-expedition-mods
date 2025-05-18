@@ -41,7 +41,7 @@ If you experience any issues, bugs, or need assistance with the modpack, feel fr
 
 ---
 
-##License: 
+## License: 
 This repository is licensed under the Mozilla Public License 2.0 (MPL).
 
 Important: While this repository and its management scripts are under the MPL, all included mods are subject to their own individual licenses. Please respect the original licensing terms of each mod.
